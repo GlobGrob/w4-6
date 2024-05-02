@@ -1,6 +1,14 @@
 
 <html lang="en">
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DDWMH59G3D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DDWMH59G3D');
+</script>
 <meta name="keywords" content="бизнес,план,начало."/>
 <meta name="description" content="способы создать свой бизнес"/>
 <meta name="author" lang="ru" content="км2211"/>
