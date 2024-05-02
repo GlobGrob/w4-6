@@ -1,6 +1,4 @@
-# w4-6
-rep6
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta name="keywords" content="бизнес,план,начало."/>
